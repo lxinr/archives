@@ -12,8 +12,8 @@
 
 #### 异步编程/Promise/Async,Await
 
-* [Promise](https://zh.javascript.info/promise-basics)
-* [Generator](https://zh.javascript.info/generators)
+* [javascript.info Promise](https://zh.javascript.info/promise-basics)
+* [javascript.info Generator](https://zh.javascript.info/generators)
 
 ### 2. Vue
 
