@@ -23,3 +23,9 @@
 * [为什么 Vue 中不要用 index 作为 key？（diff 算法详解）](https://zhuanlan.zhihu.com/p/124019708)
 * [详解vue的diff算法](https://juejin.cn/post/6844903607913938951)
 * [浅入浅出图解domDIff](https://juejin.cn/post/6844903592520843277#heading-0)
+
+
+
+### 工具
+
+* [在线Babel转换](https://www.babeljs.cn/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&spec=false&loose=false&code_lz=Q&debug=false&forceAllTransforms=true&shippedProposals=false&circleciRepo=&evaluate=true&fileSize=false&timeTravel=false&sourceType=unambiguous&lineWrap=true&presets=env%2Cstage-2%2Cstage-3&prettier=false&targets=&version=7.13.7&externalPlugins=)
