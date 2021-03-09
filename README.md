@@ -13,6 +13,7 @@
 #### 异步编程/Promise/Async,Await
 
 * [javascript.info Promise](https://zh.javascript.info/promise-basics)
+* [Promise不会？？看这里！！！史上最通俗易懂的Promise！！！](https://juejin.cn/post/6844903607968481287)
 * [javascript.info Generator](https://zh.javascript.info/generators)
 
 ### 2. Vue
