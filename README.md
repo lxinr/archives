@@ -16,6 +16,10 @@
 * [Promise不会？？看这里！！！史上最通俗易懂的Promise！！！](https://juejin.cn/post/6844903607968481287)
 * [javascript.info Generator](https://zh.javascript.info/generators)
 
+#### 函数式编程
+
+* [尾递归为啥能优化？](https://zhuanlan.zhihu.com/p/36587160)
+
 ### 2. Vue
 
 #### diff算法/原理
