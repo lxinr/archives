@@ -37,3 +37,4 @@
 * [冴羽(mqyqingfeng)的博客](https://github.com/mqyqingfeng/Blog)
 * [手把手刷算法(labuladong)](https://labuladong.gitee.io/algo/%E9%9A%8F%E7%AC%94/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.html)
 * [飞书表格，前端年后面试真题，会80%直接进大厂副本](https://bitable.feishu.cn/appDpTBsyenTgokav1pZ0lYvcJH?table=tblwlcUC9bOFSUzJ&view=vewJHSwJVd)
+* [浏览器工作原理与实践](https://blog.poetries.top/browser-working-principle/)
