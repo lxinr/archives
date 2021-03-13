@@ -38,6 +38,11 @@
 
 * [CSS实现自适应九宫格布局](https://me.chjiyun.com/2017/12/08/CSS%E5%AE%9E%E7%8E%B0%E8%87%AA%E9%80%82%E5%BA%94%E4%B9%9D%E5%AE%AB%E6%A0%BC%E5%B8%83%E5%B1%80/)
 
+### 4. 前端工程化
+
+#### 构建/webpack
+
+* [Webpack 知识图谱：模块化、基础概念、工作原理、实战应用](https://tsejx.github.io/webpack-guidebook/)
 
 ### 站点/博客/工具收集
 
