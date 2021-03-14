@@ -34,6 +34,10 @@
 
 ### 4. CSS
 
+#### CSS变量
+
+* [CSS 变量教程](https://www.ruanyifeng.com/blog/2017/05/css-variables.html)
+
 #### 层叠上下文/z-index
 
 * [What the heck, z-index??](https://www.joshwcomeau.com/css/stacking-contexts/)
