@@ -37,6 +37,7 @@
 #### CSS变量
 
 * [CSS 变量教程](https://www.ruanyifeng.com/blog/2017/05/css-variables.html)
+* [Vue超好玩的新特性：在CSS中引入JS变量](https://juejin.cn/post/6856668819344392206)
 
 #### 层叠上下文/z-index
 
