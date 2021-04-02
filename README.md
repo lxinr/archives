@@ -62,3 +62,4 @@
 * [飞书表格，前端年后面试真题，会80%直接进大厂副本](https://bitable.feishu.cn/appDpTBsyenTgokav1pZ0lYvcJH?table=tblwlcUC9bOFSUzJ&view=vewJHSwJVd)
 * [浏览器工作原理与实践](https://blog.poetries.top/browser-working-principle/)
 * [设计模式](https://refactoringguru.cn/design-patterns/factory-method)
+* [v8 Blog](https://v8.dev/)
