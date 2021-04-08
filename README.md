@@ -32,7 +32,11 @@
 * [详解vue的diff算法](https://juejin.cn/post/6844903607913938951)
 * [浅入浅出图解domDIff](https://juejin.cn/post/6844903592520843277#heading-0)
 
-### 4. CSS
+### 4. TypeScript
+
+* [typescript 中的 interface 和 type 到底有什么区别？](https://github.com/SunshowerC/blog/issues/7)
+
+### 5. CSS
 
 #### CSS变量
 
@@ -47,7 +51,7 @@
 
 * [CSS实现自适应九宫格布局](https://me.chjiyun.com/2017/12/08/CSS%E5%AE%9E%E7%8E%B0%E8%87%AA%E9%80%82%E5%BA%94%E4%B9%9D%E5%AE%AB%E6%A0%BC%E5%B8%83%E5%B1%80/)
 
-### 5. 前端工程化
+### 6. 前端工程化
 
 #### 构建/webpack
 
