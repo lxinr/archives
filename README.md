@@ -35,6 +35,7 @@
 ### 4. TypeScript
 
 * [typescript 中的 interface 和 type 到底有什么区别？](https://github.com/SunshowerC/blog/issues/7)
+* [掌握甩锅技术: Typescript 运行时数据校验](https://github.com/SunshowerC/blog/issues/13)
 
 ### 5. CSS
 
