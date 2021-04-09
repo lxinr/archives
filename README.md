@@ -59,6 +59,12 @@
 * [Webpack 知识图谱：模块化、基础概念、工作原理、实战应用](https://tsejx.github.io/webpack-guidebook/)
 * [浅谈 Vite 2.0 原理，依赖预编译，插件机制是如何兼容 Rollup 的？](https://ssh-blog.vercel.app/812799294/)
 
+### 7. 安全
+
+* [前端配置防盗链和反盗链](https://www.jianshu.com/p/ed6f1616efb6)
+* [前端解决第三方图片防盗链的办法 - html referrer 访问图片资源 403 问题
+](https://juejin.cn/post/6844903869755949069)
+
 ### 站点/博客/工具收集
 
 * [在线Babel转换](https://www.babeljs.cn/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&spec=false&loose=false&code_lz=Q&debug=false&forceAllTransforms=true&shippedProposals=false&circleciRepo=&evaluate=true&fileSize=false&timeTravel=false&sourceType=unambiguous&lineWrap=true&presets=env%2Cstage-2%2Cstage-3&prettier=false&targets=&version=7.13.7&externalPlugins=)
