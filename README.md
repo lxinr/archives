@@ -23,6 +23,7 @@
 #### 进阶
 
 * [递归和堆栈](https://zh.javascript.info/recursion)
+* [详解JavaScript中的Event Loop（事件循环）机制](https://zhuanlan.zhihu.com/p/33058983)
 
 ### 3. Vue
 
