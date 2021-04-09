@@ -54,9 +54,10 @@
 
 ### 6. 前端工程化
 
-#### 构建/webpack
+#### 构建工具/webpack/Vite/Rollup
 
 * [Webpack 知识图谱：模块化、基础概念、工作原理、实战应用](https://tsejx.github.io/webpack-guidebook/)
+* [浅谈 Vite 2.0 原理，依赖预编译，插件机制是如何兼容 Rollup 的？](https://ssh-blog.vercel.app/812799294/)
 
 ### 站点/博客/工具收集
 
