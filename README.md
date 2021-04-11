@@ -69,6 +69,11 @@
 * [前端解决第三方图片防盗链的办法 - html referrer 访问图片资源 403 问题
 ](https://juejin.cn/post/6844903869755949069)
 
+### 8. 算法
+
+* [重试策略(指数退避算法)](https://cloud.google.com/storage/docs/retry-strategy?hl=zh-cn)
+* [服务异常重试机制-指数退避算法](https://www.jianshu.com/p/6b7d6f62f6e3)
+
 ### 站点/博客/工具收集
 
 * [在线Babel转换](https://www.babeljs.cn/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&spec=false&loose=false&code_lz=Q&debug=false&forceAllTransforms=true&shippedProposals=false&circleciRepo=&evaluate=true&fileSize=false&timeTravel=false&sourceType=unambiguous&lineWrap=true&presets=env%2Cstage-2%2Cstage-3&prettier=false&targets=&version=7.13.7&externalPlugins=)
