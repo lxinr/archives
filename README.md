@@ -88,3 +88,4 @@
 * [浏览器工作原理与实践](https://blog.poetries.top/browser-working-principle/)
 * [设计模式](https://refactoringguru.cn/design-patterns/factory-method)
 * [v8 Blog](https://v8.dev/)
+* [BFE 前端刷题，帮助你练习前端开发，准备前端面试](https://bigfrontend.dev/zh/problem)
