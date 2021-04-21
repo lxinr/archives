@@ -63,9 +63,11 @@
 * [Webpack 打包太慢？来试试 Bundleless](https://developer.aliyun.com/article/767333)
 * [从零实现webpack热更新HMR](https://juejin.cn/post/6844904020528594957#heading-14)
 
-#### 优化
+#### 模块/优化
 
 * [How CommonJS is making your bundles larger](https://web.dev/commonjs-larger-bundles/#how-does-commonjs-affect-your-final-bundle-size)
+* [avaScript模块：从IIFE，CommonJS到ES6模块](https://ui.dev/javascript-modules-iifes-commonjs-esmodules/)
+* [深入 CommonJs 与 ES6 Module](https://segmentfault.com/a/1190000017878394)
 
 ### 7. 安全
 
