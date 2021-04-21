@@ -63,6 +63,10 @@
 * [Webpack 打包太慢？来试试 Bundleless](https://developer.aliyun.com/article/767333)
 * [从零实现webpack热更新HMR](https://juejin.cn/post/6844904020528594957#heading-14)
 
+#### 优化
+
+* [How CommonJS is making your bundles larger](https://web.dev/commonjs-larger-bundles/#how-does-commonjs-affect-your-final-bundle-size)
+
 ### 7. 安全
 
 * [前端配置防盗链和反盗链](https://www.jianshu.com/p/ed6f1616efb6)
