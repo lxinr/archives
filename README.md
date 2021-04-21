@@ -78,6 +78,11 @@
 * [重试策略(指数退避算法)](https://cloud.google.com/storage/docs/retry-strategy?hl=zh-cn)
 * [服务异常重试机制-指数退避算法](https://www.jianshu.com/p/6b7d6f62f6e3)
 
+### 9. 架构设计
+
+* [BFF 模式](https://www.infoq.cn/article/4hjplbxo1xktefxzpqz8)
+* [Backend For Frontend (BFF)](http://www.ayqy.net/blog/backend-for-frontend-bff/)
+
 ### 9. 其他拓展
 
 ### 站点/博客/工具收集
