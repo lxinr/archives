@@ -62,6 +62,7 @@
 * [浅谈 Vite 2.0 原理，依赖预编译，插件机制是如何兼容 Rollup 的？](https://ssh-blog.vercel.app/812799294/)
 * [Webpack 打包太慢？来试试 Bundleless](https://developer.aliyun.com/article/767333)
 * [从零实现webpack热更新HMR](https://juejin.cn/post/6844904020528594957#heading-14)
+* [揭秘webpack loader](https://champyin.com/2020/01/28/%E6%8F%AD%E7%A7%98webpack-loader/)
 
 #### 模块/优化
 
