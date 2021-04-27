@@ -85,7 +85,12 @@
 * [BFF 模式](https://www.infoq.cn/article/4hjplbxo1xktefxzpqz8)
 * [Backend For Frontend (BFF)](http://www.ayqy.net/blog/backend-for-frontend-bff/)
 
-### 9. 其他拓展
+### 10. 浏览器和网络
+
+* [深入理解HTTPS工作原理](https://juejin.cn/post/6844903830916694030#heading-3)
+* [彻底搞懂HTTPS的加密原理](https://zhuanlan.zhihu.com/p/43789231)
+
+### 11. 其他
 
 * [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527)
 
