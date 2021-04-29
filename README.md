@@ -33,6 +33,11 @@
 * [详解vue的diff算法](https://juejin.cn/post/6844903607913938951)
 * [浅入浅出图解domDIff](https://juejin.cn/post/6844903592520843277#heading-0)
 
+#### 源码分析
+
+* [Vue 源码分析系列之一：Vue 实例化过程](https://www.shangyang.me/2018/03/17/javascript-vue-sourcecode-01-overall/)
+* 
+
 ### 4. TypeScript
 
 * [typescript 中的 interface 和 type 到底有什么区别？](https://github.com/SunshowerC/blog/issues/7)
