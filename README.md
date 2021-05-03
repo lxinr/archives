@@ -69,6 +69,7 @@
 * [Webpack 打包太慢？来试试 Bundleless](https://developer.aliyun.com/article/767333)
 * [从零实现webpack热更新HMR](https://juejin.cn/post/6844904020528594957#heading-14)
 * [揭秘webpack loader](https://champyin.com/2020/01/28/%E6%8F%AD%E7%A7%98webpack-loader/)
+* [Sentry原理--收集错误、上报](https://juejin.cn/post/6957475955858210823#heading-2)
 
 #### 模块/优化
 
