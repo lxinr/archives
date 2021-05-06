@@ -95,6 +95,8 @@
 
 ### 10. 浏览器和网络
 
+* [史上最全！图解浏览器的工作原理](https://www.infoq.cn/article/CS9-WZQlNR5h05HHDo1b)
+
 * [深入理解HTTPS工作原理](https://juejin.cn/post/6844903830916694030#heading-3)
 * [彻底搞懂HTTPS的加密原理](https://zhuanlan.zhihu.com/p/43789231)
 * [解密 HTTP/2 与 HTTP/3 的新特性](https://www.infoq.cn/article/ku4okqr8vh123a8dlccj)
