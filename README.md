@@ -103,7 +103,11 @@
 * [彻底搞懂HTTPS的加密原理](https://zhuanlan.zhihu.com/p/43789231)
 * [解密 HTTP/2 与 HTTP/3 的新特性](https://www.infoq.cn/article/ku4okqr8vh123a8dlccj)
 
-### 11. 其他
+### 11. 服务端渲染
+
+* [彻底理解服务端渲染 - SSR原理](https://github.com/yacan8/blog/issues/30)
+
+### 12. 其他
 
 * [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.cn/post/6844904046436843527)
 
