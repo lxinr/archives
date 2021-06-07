@@ -131,3 +131,4 @@
 * [Markdown latex 语法整理](https://mcc321.github.io/2018/12/22/markdown-shu-xue-gong-shi-yu-fa/)
 * [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 * [React技术揭秘](https://react.iamkasong.com/#%E5%AF%BC%E5%AD%A6%E8%A7%86%E9%A2%91)
+* [Tan Li Hau](https://lihautan.com/blogs/)
