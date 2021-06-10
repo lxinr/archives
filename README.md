@@ -132,3 +132,4 @@
 * [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
 * [React技术揭秘](https://react.iamkasong.com/#%E5%AF%BC%E5%AD%A6%E8%A7%86%E9%A2%91)
 * [Tan Li Hau](https://lihautan.com/blogs/)
+* [JavaScript Weekly](https://javascriptweekly.com/issues/541)
