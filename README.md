@@ -134,3 +134,4 @@
 * [Tan Li Hau](https://lihautan.com/blogs/)
 * [JavaScript Weekly](https://javascriptweekly.com/issues/541)
 * [优质github项目收集 webdevscom](https://webdevscom.github.io/)
+* [made with react.js](https://madewithreactjs.com/)
