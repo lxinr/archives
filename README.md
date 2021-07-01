@@ -135,3 +135,4 @@
 * [JavaScript Weekly](https://javascriptweekly.com/issues/541)
 * [优质github项目收集 webdevscom](https://webdevscom.github.io/)
 * [made with react.js](https://madewithreactjs.com/)
+* [Vite 源码分析](http://vite.ssr-fc.com/)
